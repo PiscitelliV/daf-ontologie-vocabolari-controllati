@@ -38,7 +38,6 @@ Per informazioni su come fruire e contribuire ai contenuti semantici consultare 
 
 Nell'ambito del Piano Nazionale di Ripresa e Resilienza, il progetto del National Data Catalog, supporta l’ecosistema italiano di interoperabilità, nasce della collaborazione tra il Dipartimento per la trasformazione digitale, l'ISTAT, l'Istituto di Scienze e Tecnologie della Cognizione del CNR e AGID. Il Dipartimento, titolare della misura, ha affidato ad ISTAT la realizzazione del progetto, mentre gli enti esperti di dominio sono responsabili e titolari dei contenuti pubblicati.
 
-Contatti
 Per segnalazioni, richieste o supporto:
 
 Apri un issue in questo repository.
