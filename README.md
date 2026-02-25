@@ -1,18 +1,16 @@
 # Repository delle risorse semantiche nazionali
 
-_Aggiornato al 02/24/2026_
+_Aggiornato al 24/02/2026_
 
-Questo repository contiene le risorse semantiche ufficiali di rilevanza nazionale, non legate a singoli sistemi o enti pubblici.
-
-Le risorse semantiche di questo repository sono consultabili e organizzate in https://schema.gov.it - Il catalogo nazionale della sematica dei dati, che abilita l'interoperabilità semantica di dati tra pubbliche amministrazioni, consentendo lo scambio efficace di dati.
+Questo repository contiene le risorse semantiche ufficiali di rilevanza nazionale, non legate a singoli sistemi di enti pubblici.
 
 ## Struttura e contenuti
 
 Le risorse sono suddivise in diversi livelli logici in base alla funzione che svolgono:
 
-- **Risorse core**: modelli e ontologie per concetti indipendenti dal dominio (es. persone, indirizzi, organizzazioni, luoghi).
+- **Risorse core**: ontologie e vocabolari per concetti indipendenti dal dominio (es. persone, indirizzi, organizzazioni, luoghi).
 - **Risorse di supporto**: ontologie e vocabolari per concetti generici di supporto (es. tempo, unità di misura, lingue).
-- **Risorse di dominio applicativo**: modelli e vocabolari specifici per settori quali cultura, istruzione, trasparenza amministrativa, servizi pubblici, ecc.
+- **Risorse di dominio applicativo**: ontologie e vocabolari specifici per settori quali cultura, istruzione, trasparenza amministrativa, servizi pubblici, ecc.
 
 Il contenuto del repository è organizzato in due principali sezioni:
 
@@ -37,8 +35,6 @@ Se sei nuovo nel mondo della semantica dei dati, e hai bisogno di un’**introdu
 Per informazioni su come fruire e contribuire ai contenuti semantici consultare la guida al catalogo (sezione CONTRIBUTING).
 
 ## Governance
-
-Il progetto, nell'ambito del Piano Nazionale di Ripresa e Resilienza, supporta l’ecosistema italiano di interoperabilità ed è frutto della collaborazione tra:
 
 Nell'ambito del Piano Nazionale di Ripresa e Resilienza, il progetto del National Data Catalog, supporta l’ecosistema italiano di interoperabilità, nasce della collaborazione tra il Dipartimento per la trasformazione digitale, l'ISTAT, l'Istituto di Scienze e Tecnologie della Cognizione del CNR e AGID. Il Dipartimento, titolare della misura, ha affidato ad ISTAT la realizzazione del progetto, mentre gli enti esperti di dominio sono responsabili e titolari dei contenuti pubblicati.
 
